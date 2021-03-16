@@ -1,2 +1,2 @@
 # discord-rpc
-This is discord rpc
+Docs Comming Soon!!
